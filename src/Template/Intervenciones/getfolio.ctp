@@ -1,0 +1,1 @@
+<?= $this->Form->control('folio',['class' => 'form-control js-example-basic-single','label' => false, 'value' => $generatedFolio, 'readonly' => true]) ?>
